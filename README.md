@@ -21,7 +21,7 @@ Build output directory: `/`
 
 ## Before launch
 - [ ] Wire the contact form to a form service (Formspree / Web3Forms / Cloudflare Worker)
-- [ ] Add real email, phone and registered office on contact.html
+- [ ] Add a phone number on contact.html
 - [ ] Have privacy.html reviewed by counsel
 - [ ] Replace REPLACE-WITH-YOUR-DOMAIN in sitemap.xml and robots.txt
 - [ ] Swap raster logos for vector originals if available
