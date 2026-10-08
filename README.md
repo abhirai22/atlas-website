@@ -7,6 +7,7 @@ Static site. No build step, no dependencies.
 index.html          Home
 about.html          Vision, brands, structure, roadmap
 contact.html        ATLAS Pulse request form + FAQ
+privacy.html        Privacy policy (linked from every footer)
 services/           One page per wing (axis, orbit, cosmos, platforms)
 _headers            Security headers (Cloudflare Pages)
 _redirects          /services -> AXIS
@@ -21,5 +22,6 @@ Build output directory: `/`
 ## Before launch
 - [ ] Wire the contact form to a form service (Formspree / Web3Forms / Cloudflare Worker)
 - [ ] Add real email, phone and registered office on contact.html
+- [ ] Add grievance officer contact details on privacy.html and have the policy reviewed by counsel
 - [ ] Replace REPLACE-WITH-YOUR-DOMAIN in sitemap.xml and robots.txt
 - [ ] Swap raster logos for vector originals if available
